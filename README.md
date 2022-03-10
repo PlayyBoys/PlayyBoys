@@ -7,7 +7,7 @@
 
 ## Contact Me On
 
-* [Whatsapp] "wa.me/6285742344873"
+* [Whatsapp] `wa.me/6285742344873`
 
 <!---
 PlayyBoys/PlayyBoys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
