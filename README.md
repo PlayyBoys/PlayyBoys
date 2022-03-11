@@ -1,6 +1,8 @@
 ## My Profile
 global.Name = 'Iyann'
+
 global.Age = '12 Years Old'
+
 global.Role = 'Student'
 
 ## Contact Me On
