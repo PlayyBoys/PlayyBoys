@@ -1,9 +1,8 @@
-## My Profile
-global.Name = 'Iyann'
-
-global.Age = '12 Years Old'
-
-global.Role = 'Student'
+<p align="center">
+<img src="https://avatars.githubusercontent.com/PlayyBoys" width="150" height="150"/>
+</p>
+<h1 align='center'>Hallo bang👋 :wave:</h1>
+<p align='center'>Hello World:v</p>
 
 ## Contact Me On
 
